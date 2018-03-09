@@ -1,0 +1,14 @@
+{
+    "obj": {
+        "type": "物品类型",
+        "name": "物品名称",
+        "lostDate": "丢失日期",
+        "color": "物品颜色",
+        "lostArae": "丢失地方",
+        "losterID": "失主ID",
+        "losterName": "失主姓名",
+        "other": "其他"
+    },
+
+    "arr": [{ "key": "type", "value": "物品类型" }, { "key": "name", "value": "物品名称" }, { "key": "lostDate", "value": "丢失日期" }, { "key": "color", "value": "物品颜色" }, { "key": "lostArae", "value": "丢失地方" }, { "key": "losterID", "value": "失主ID" }, { "key": "losterName", "value": "失主姓名" }, { "key": "other", "value": "其他" }]
+}
